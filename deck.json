@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "f2c4abaf-af22-11ea-ba19-408d5c4db3a6",
-    "deck_config_uuid": "c4c323c0-af25-11ea-af7e-408d5c4db3a6",
+    "deck_config_uuid": "73243322-af26-11ea-966e-408d5c4db3a6",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "c4c323c0-af25-11ea-af7e-408d5c4db3a6",
+            "crowdanki_uuid": "73243322-af26-11ea-966e-408d5c4db3a6",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -126,6 +126,18 @@
             ],
             "flags": 0,
             "guid": "F+*tK7k(7.",
+            "note_model_uuid": "f2c4d2c2-af22-11ea-a9e9-408d5c4db3a6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Another test card.",
+                "a"
+            ],
+            "flags": 0,
+            "guid": "c/|x*z0N:>",
             "note_model_uuid": "f2c4d2c2-af22-11ea-a9e9-408d5c4db3a6",
             "tags": []
         }
