@@ -87,7 +87,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic",
+            "name": "Basic-c7d4c",
             "req": [
                 [
                     0,
@@ -128,18 +128,6 @@
             ],
             "flags": 0,
             "guid": "F+*tK7k(7.",
-            "note_model_uuid": "f2c4d2c2-af22-11ea-a9e9-408d5c4db3a6",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Another test card.",
-                "a"
-            ],
-            "flags": 0,
-            "guid": "c/|x*z0N:>",
             "note_model_uuid": "f2c4d2c2-af22-11ea-a9e9-408d5c4db3a6",
             "tags": []
         },
