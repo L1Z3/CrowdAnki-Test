@@ -2,12 +2,12 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "f2c4abaf-af22-11ea-ba19-408d5c4db3a6",
-    "deck_config_uuid": "73243322-af26-11ea-966e-408d5c4db3a6",
+    "deck_config_uuid": "6f056005-af29-11ea-837c-408d5c4db3a6",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "73243322-af26-11ea-966e-408d5c4db3a6",
+            "crowdanki_uuid": "6f056005-af29-11ea-837c-408d5c4db3a6",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -54,7 +54,9 @@
     "dyn": 0,
     "extendNew": 10,
     "extendRev": 50,
-    "media_files": [],
+    "media_files": [
+        "chrome_2020-06-15_12-57-51.png"
+    ],
     "mid": 1578700206840,
     "name": "CrowdAnki-Test",
     "note_models": [
@@ -138,6 +140,18 @@
             ],
             "flags": 0,
             "guid": "c/|x*z0N:>",
+            "note_model_uuid": "f2c4d2c2-af22-11ea-a9e9-408d5c4db3a6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Test card with media",
+                "<img src=\"chrome_2020-06-15_12-57-51.png\">"
+            ],
+            "flags": 0,
+            "guid": "K3L[)}S]).",
             "note_model_uuid": "f2c4d2c2-af22-11ea-a9e9-408d5c4db3a6",
             "tags": []
         }
